@@ -2,7 +2,7 @@
 ## Front matter
 title: "Доклад на тему «Trustworthy Computing Initiative»"
 subtitle: "Дисциплина: Операционные системы"
-author: "Дмитрий Сергеевич Кулябов"
+author: "Бражко Александра Александровна"
 
 ## Generic otions
 lang: ru-RU
